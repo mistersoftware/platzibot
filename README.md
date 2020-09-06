@@ -11,8 +11,8 @@ https://platzi.com/clases/ibm-watson/
 
 Edita las variables del handshake con tus propias claves generadas.
 
-[guia1](https://user-images.githubusercontent.com/12854504/92315385-a92d0480-efaa-11ea-97ce-54ade6521e8f.png)
+![guia1](https://user-images.githubusercontent.com/12854504/92315385-a92d0480-efaa-11ea-97ce-54ade6521e8f.png)
 
-[guia2](https://user-images.githubusercontent.com/12854504/92315400-b9dd7a80-efaa-11ea-9c62-dd4b2784cf54.png)
+![guia2](https://user-images.githubusercontent.com/12854504/92315400-b9dd7a80-efaa-11ea-9c62-dd4b2784cf54.png)
 
 Adaptalo a tus necesidades.
