@@ -13,7 +13,10 @@ Edita las variables del nodo definicion de webhooks y handshake con tus propias 
 
 ![guia1](https://user-images.githubusercontent.com/12854504/92315385-a92d0480-efaa-11ea-97ce-54ade6521e8f.png)
 
+Por ejemplo aquí el chatbot esta realizando una consulta al servicio de resumenes de wikipedia en inglés, y en el proceso ha realizado la traducción simultanea tando de ida al servicio como de regreso.
 
+
+![bogota](https://user-images.githubusercontent.com/12854504/92315787-93bad900-efb0-11ea-9229-ae7b79342057.png)
 
 Adaptalo a tus necesidades y si tienes problemas abre un issue y contactame.
 
